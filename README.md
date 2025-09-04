@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank">
-Juan Pablo</a></h1>
+Juanse</a></h1>
 
 [![](https://visitcount.itsvg.in/api?id=Juanse797&icon=0&color=0)](https://visitcount.itsvg.in)
 <p >
-  <img align="center" src="https://i.pinimg.com/1200x/ac/07/28/ac072899fd1b1f09556ed1958f81e397.jpg">
+  <img align="center" src="https://i.pinimg.com/1200x/ac/07/28/ac072899fd1b1f09556ed1958f81e397.jpg" width="300" height="200">
 </p>
 
 
