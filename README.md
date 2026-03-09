@@ -1,3 +1,4 @@
+<!-- 
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank">
 Juanse</a></h1>
 
@@ -42,7 +43,7 @@ TECNOLOGÍAS SUGERIDAS POR SECCIÓN:
 - ML & AI: TensorFlow, PyTorch, scikit-learn, Keras, XGBoost, LightGBM
 - Data & Analytics: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter
 - ML Engineering: Docker, Kubernetes, MLflow, Kubeflow, Airflow, Git, AWS/GCP/Azure
--->
+
 
 <table><tr><td valign="top" width="33%">
 
@@ -50,13 +51,15 @@ TECNOLOGÍAS SUGERIDAS POR SECCIÓN:
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <!-- Agrega aquí: TensorFlow, PyTorch, scikit-learn, Keras, XGBoost, etc. -->
+<!-- 
 </div>
-
+<!-- 
 </td><td valign="top" width="33%">
 
 ### Data & Analytics  
 <div align="center">  
 <!-- Agrega aquí: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter, etc. -->
+<!-- 
 </div>
 
 </td><td valign="top" width="33%">
@@ -64,15 +67,16 @@ TECNOLOGÍAS SUGERIDAS POR SECCIÓN:
 ### ML Engineering & DevOps  
 <div align="center">  
 <!-- Agrega aquí: Docker, Kubernetes, MLflow, Kubeflow, Airflow, Git, etc. -->
+<!-- 
 </div>
 
 </td></tr></table>  
 
 <br/>  
+-->
 
 
-
-
+<!-- 
 
 # 📊 GitHub Stats:
 <div align="center">
